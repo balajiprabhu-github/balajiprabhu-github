@@ -1,31 +1,55 @@
-### Hi there 👋, I'm Balaji Prabhu
-Software Engineer at Thoughtworks
+## 👋 Hey, I'm Balaji Prabhu  
+**Software Engineer @ Thoughtworks | Android & Flutter Developer | Exploring AI-First Software Delivery**
 
-### Skills
+---
 
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=2bbc8a)
-![Android](https://img.shields.io/static/v1?label=&message=Android&color=2bbc8a)
-![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=2bbc8a)
-![Coroutines](https://img.shields.io/static/v1?label=&message=Coroutines&color=2bbc8a)
-![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=2bbc8a)
-![Jetpacks](https://img.shields.io/static/v1?label=&message=Jetpacks&color=2bbc8a)
-![Dagger](https://img.shields.io/static/v1?label=&message=Dagger&color=2bbc8a)
-![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=2bbc8a)
-![Data Structures](https://img.shields.io/static/v1?label=&message=DataStructures&color=2bbc8a)
-![Algorithms](https://img.shields.io/static/v1?label=&message=Algorithms&color=2bbc8a)
-![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=2bbc8a)
-![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=2bbc8a)
+### 🧠 About Me  
+I’ve been building mobile apps for a while now — mostly Android and Flutter — and I love working on clean, scalable architectures.  
+Lately, I’ve been diving into **AI-First Software Delivery**, experimenting with ways to bring a bit of AI magic into the everyday dev workflow.  
+Always curious, always shipping. 🚀  
 
-### LinkedIn
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balajip96/) 
-### Leetcode
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/balajiprabhu-github/)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajiprabhu-github)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack  
+**Mobile:** Kotlin · Flutter · Dart · Jetpack Compose · Coroutines  
+**Architecture:** Clean Architecture · MVVM · Multi-Module · Dagger/Hilt  
+**Other stuff:** Firebase · REST APIs · Git · CI/CD  
+**CS Side:** Data Structures · Algorithms  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=balajiprabhu-github&show_icons=true) 
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=balajiprabhu-github)  
+### 📊 GitHub Stats  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajiprabhu-github&label=Profile%20views&color=0e75b6&style=flat" alt="balajiprabhu-github" /> </p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=balajiprabhu-github&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajiprabhu-github&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajiprabhu-github&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
+</div>
+
+---
+
+### 🌍 Find Me Around  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/balajip96/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/balajiprabhu-github/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:balajiprabhu.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> “Talk is cheap. Show me the code.” – Linus Torvalds  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balajiprabhu-github&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
