@@ -5,9 +5,7 @@
 
 ### 🧠 About Me  
 I’ve been building mobile apps for a while now — mostly Android and Flutter — and I love working on clean, scalable architectures.  
-Lately, I’ve been diving into **AI-First Software Delivery**, experimenting with ways to bring a bit of AI magic into the everyday dev workflow.  
-Always curious, always shipping. 🚀  
-
+Lately, I’ve been diving into **AI-First Software Delivery**, experimenting with ways to bring a bit of AI tools into the everyday dev workflow.  
 ---
 
 ### 🛠️ Tech Stack  
