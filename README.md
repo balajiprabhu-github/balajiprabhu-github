@@ -21,8 +21,6 @@ Lately, I’ve been diving into **AI-First Software Delivery**, experimenting wi
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=balajiprabhu-github&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajiprabhu-github&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajiprabhu-github&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
 
