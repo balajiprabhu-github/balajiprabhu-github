@@ -20,7 +20,7 @@ Lately, I’ve been diving into **AI-First Software Delivery**, experimenting wi
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=balajiprabhu-github&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=balajiprabhu-github&theme=black-ice&hide_border=true&background=45%2C484848%2C00000092" alt="GitHub Streak" /></a>
 
 </div>
 
