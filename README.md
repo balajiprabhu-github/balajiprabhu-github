@@ -40,12 +40,6 @@ Lately, I’ve been diving into **AI-First Software Delivery**, experimenting wi
   </a>
 </p>
 
----
-
-> “Talk is cheap. Show me the code.” – Linus Torvalds  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=balajiprabhu-github&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
