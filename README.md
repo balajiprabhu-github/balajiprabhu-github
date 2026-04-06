@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Balaji Prabhu  
-**Software Engineer @ Thoughtworks | Android & Flutter Developer | Exploring AI-First Software Delivery**
+**Mobile Developer @ Thoughtworks | Android & Flutter Developer | Exploring AI-First Software Delivery**
 
 ---
 
